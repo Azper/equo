@@ -16,9 +16,9 @@ Some updates we are coming out with soon is that you can acsess the database of 
 
 # Requirements 
 
-Sly
-Sly.Lexer
-Sly.Parser
-Socket
+1. Sly
+2. Sly.Lexer
+3. Sly.Parser
+4. Socket
 
 Also, check out requirements.txt
