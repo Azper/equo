@@ -1,5 +1,5 @@
 # TheBestWayToStore
-Click Here[https://bit.ly/azperequo] To Run Code! - You have to sign up for repl! or for now at least...
+Click Here["https://bit.ly/azperequo"] To Run Code! - You have to sign up for repl! or for now at least...
 Need to store something that you need super securly?
 Well you found just the thing!
 
